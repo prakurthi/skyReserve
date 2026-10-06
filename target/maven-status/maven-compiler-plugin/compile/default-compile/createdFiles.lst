@@ -1,0 +1,8 @@
+com\skyreserve\model\Flight.class
+com\skyreserve\model\Booking.class
+com\skyreserve\controller\ApiController.class
+com\skyreserve\repo\FlightRepository.class
+com\skyreserve\repo\UserRepository.class
+com\skyreserve\model\User.class
+com\skyreserve\repo\BookingRepository.class
+com\skyreserve\SkyReserveApplication.class
